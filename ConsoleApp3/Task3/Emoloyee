@@ -1,0 +1,10 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace TaskNo3
+{
+    internal class Student
+    {
+    }
+}
